@@ -64,17 +64,17 @@ Download **AppsBlocker - Data & Net Guard** now and start building a more focuse
 ## Screenshots:
 
 <p align="center">
-  <img src="images/screenshot1.png" alt="Screenshot 1" width="200">
-  <img src="images/screenshot2.png" alt="Screenshot 2" width="200">
-  <img src="images/screenshot3.png" alt="Screenshot 3" width="200">
-  <img src="images/screenshot4.png" alt="Screenshot 4" width="200">
+  <img src="images/screenshot1.png" alt="Screenshot 1" width="500">
+  <img src="images/screenshot2.png" alt="Screenshot 2" width="500">
 </p>
 
 <p align="center">
-  <img src="images/screenshot5.png" alt="Screenshot 5" width="200">
-  <img src="images/screenshot6.png" alt="Screenshot 6" width="200">
-  <img src="images/screenshot7.png" alt="Screenshot 7" width="200">
-  <img src="images/screenshot8.png" alt="Screenshot 8" width="200">
+  <img src="images/screenshot3.png" alt="Screenshot 3" width="500">
+  <img src="images/screenshot4.png" alt="Screenshot 4" width="500">
+</p>
+
+<p align="center">
+  <img src="images/screenshot5.png" alt="Screenshot 5" width="500">
 </p>
 
 ---
